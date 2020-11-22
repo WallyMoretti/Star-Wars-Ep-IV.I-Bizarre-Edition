@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\wally\onedrive\desktop\t.p final lab. ii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574216819 source:c:\users\wally\onedrive\desktop\t.p final lab. ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491399896 c:\users\wally\onedrive\desktop\t.p final lab. ii\gotoxy.h
+
+1491400450 source:c:\users\walter\desktop\t.p final lab. ii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574208367 source:c:\users\walter\desktop\t.p final lab. ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491399896 c:\users\walter\desktop\t.p final lab. ii\gotoxy.h
+
+1574045010 c:\users\walter\desktop\t.p final lab. ii\starwarsintro.h
+
+1574189720 source:c:\users\walter\desktop\t.p final lab. ii\starwarsintro.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1574045010 c:\users\wally\onedrive\desktop\t.p final lab. ii\starwarsintro.h
+
+1574189720 source:c:\users\wally\onedrive\desktop\t.p final lab. ii\starwarsintro.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491400450 source:c:\users\wally\onedrive\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574216819 source:c:\users\wally\onedrive\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491399896 c:\users\wally\onedrive\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\gotoxy.h
+
+1574045010 c:\users\wally\onedrive\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\starwarsintro.h
+
+1574189720 source:c:\users\wally\onedrive\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\starwarsintro.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491400450 source:c:\users\walter\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574216819 source:c:\users\walter\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491399896 c:\users\walter\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\gotoxy.h
+
+1574045010 c:\users\walter\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\starwarsintro.h
+
+1574189720 source:c:\users\walter\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\starwarsintro.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491386050 source:c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574198818 source:c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491385496 c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\gotoxy.h
+
+1574027010 c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\starwarsintro.h
+
+1604614760 source:c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab. ii version final\starwarsintro.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491386050 source:c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab ii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605916400 source:c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
+1491385496 c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab ii\gotoxy.h
+
+1574027010 c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab ii\starwarsintro.h
+
+1604614760 source:c:\users\wally\desktop\facultad\codeblocks - c\laboratorio i - ii\laboratorio ii\t.p final ii\t.p final lab ii\starwarsintro.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"gotoxy.h"
+	"StarWarsIntro.h"
+
